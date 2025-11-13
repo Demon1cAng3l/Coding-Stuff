@@ -1,2 +1,2 @@
 # Coding-Stuff
-Voor programeren
+Voor programeren en dingen dat er mee te maken heb
